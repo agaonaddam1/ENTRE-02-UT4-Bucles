@@ -2,7 +2,7 @@
 /**
  *  Clase que dibuja una figura 
  * 
- * @author - 
+ * @author - Ander Gaona
  *  
  */
 public class PintorFiguras
