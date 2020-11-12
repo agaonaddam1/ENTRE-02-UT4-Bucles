@@ -27,6 +27,9 @@ public class Utilidades
             cifra = numero % 10;
             numero /=  10;
         }
+        if (cifra >= 8){
+                validar = false;
+            }
         return validar;
     }
 
