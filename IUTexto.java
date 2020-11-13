@@ -57,8 +57,8 @@ public class IUTexto
                 else{
                     System.out.println("-----------------------------------------------");
                     System.out.printf("\n %30d \n %30d \n", numero1, numero2);
-                    System.out.println("                Suma Octal: " 
-                    + calculadora.sumarEnOctal(numero1, numero2));
+                    System.out.printf("%22s %8d \n", "Suma Octal: ", 
+                    calculadora.sumarEnOctal(numero1, numero2));
                     
                 }
             }
